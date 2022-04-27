@@ -4,7 +4,7 @@
 <!---
     - 💞️ I’m looking to collaborate on ...
 --->
-- 📫 How to reach me : my e-mail: mousecc@foxmail.com or kren-you@outlook.com
+- 📫 How to reach me : my e-mail:  kren-you@outlook.com
 
 <!---
 kren-you/kren-you is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
